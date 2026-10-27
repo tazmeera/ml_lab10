@@ -1,0 +1,15 @@
+{
+  "best_model": "Logistic Regression",
+  "params": {
+    "model__C": 0.1
+  },
+  "test_accuracy": 0.7867,
+  "recall_approved": 0.9233,
+  "recall_rejected": 0.5051,
+  "test_roc_auc": 0.7903,
+  "top_features": [
+    "Credit_History",
+    "ApplicantIncome",
+    "LoanAmount"
+  ]
+}

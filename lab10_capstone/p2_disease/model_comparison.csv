@@ -1,0 +1,9 @@
+Model,CV_Accuracy,CV_Std,Test_Accuracy,Macro_F1,Top3_Accuracy
+Logistic Regression (tuned),0.9161,,0.9048,0.9053,0.9881
+Logistic Regression,0.9161,0.005,0.9048,0.9053,0.9881
+SVM (RBF),0.9095,0.0058,0.9048,0.9049,0.9917
+Gradient Boosting,0.9089,0.0083,0.8857,0.8859,0.9798
+Random Forest,0.9054,0.0099,0.8905,0.8905,0.9857
+Naive Bayes,0.9027,0.0065,0.8869,0.8876,0.9881
+KNN,0.8842,0.0072,0.8833,0.8834,0.9833
+Decision Tree,0.7509,0.0059,0.7036,0.7103,0.8143

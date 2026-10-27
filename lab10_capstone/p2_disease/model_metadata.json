@@ -1,0 +1,53 @@
+{
+  "best_model": "Logistic Regression",
+  "test_accuracy": 0.9048,
+  "macro_f1": 0.9053,
+  "top3_accuracy": 0.9881,
+  "symptoms": [
+    "fever",
+    "high_fever",
+    "chills",
+    "cough",
+    "dry_cough",
+    "sore_throat",
+    "runny_nose",
+    "sneezing",
+    "shortness_of_breath",
+    "chest_pain",
+    "fatigue",
+    "body_ache",
+    "headache",
+    "nausea",
+    "vomiting",
+    "diarrhea",
+    "abdominal_pain",
+    "rash",
+    "joint_pain",
+    "loss_of_taste_smell",
+    "sweating",
+    "loss_of_appetite",
+    "frequent_urination",
+    "excessive_thirst",
+    "blurred_vision",
+    "light_sensitivity"
+  ],
+  "classes": [
+    "COVID-19",
+    "Common Cold",
+    "Dengue",
+    "Gastroenteritis",
+    "Influenza",
+    "Malaria",
+    "Migraine",
+    "Pneumonia",
+    "Type 2 Diabetes",
+    "Typhoid"
+  ],
+  "top_features": [
+    "body_ache",
+    "headache",
+    "cough",
+    "chills",
+    "sweating"
+  ]
+}
